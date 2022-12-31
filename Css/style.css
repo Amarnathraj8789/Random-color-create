@@ -1,0 +1,21 @@
+Body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#Btn{
+    background-color: rgb(152, 16, 39);
+    color: #f2f2f2ff;
+    padding: 0.3rem 0.5rem;
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    font-size: 1rem;
+}
+
+#Btn:hover{
+   background-color: rgb(248, 5, 45);
+}
